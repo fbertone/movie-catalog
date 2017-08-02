@@ -17,3 +17,5 @@ Edit the file entertainment_center.py to add your favourite movies.
 
 To open the web catalog, just go into the folder in a shell and run
 > python entertainment_center.py
+
+After the first execution, the file fresh_tomatoes.html is generated inside current directory
